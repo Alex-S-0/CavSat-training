@@ -1,0 +1,7 @@
+{
+  "name": "cavsat_common",
+  "version": "0.1.0",
+  "description": "Code shared by the container, PocketQube and ground radio: packet formats, command parsing, altitude, flight state machines.",
+  "frameworks": "*",
+  "platforms": "*"
+}
