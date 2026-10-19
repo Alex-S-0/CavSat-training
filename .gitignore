@@ -1,0 +1,8 @@
+.pio/
+.vscode/
+lib/cavsat_common/test/test_host
+__pycache__/
+*.pyc
+.venv/
+ground_station/flight_data/
+.DS_Store
